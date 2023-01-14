@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+.xcolor {
+    color: yellow;
+}
+
+.title {
+    color: red;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
